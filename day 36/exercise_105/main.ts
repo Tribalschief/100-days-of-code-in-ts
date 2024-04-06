@@ -1,0 +1,2 @@
+const compare = (str1:string, str2:string) => {if (str1.toLowerCase() === str2.toLowerCase()) return `They are identical!`; else return `They are not identical!`;};
+console.log(compare("Ahmed", "aHMED"));
