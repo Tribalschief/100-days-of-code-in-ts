@@ -1,0 +1,21 @@
+{
+  "name": "exercise_46",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.19",
+    "typescript": "^5.4.5"
+  }
+}
